@@ -1,5 +1,5 @@
  ## Saindo da Arquitetura e entrando no mundo da programação!
- ### 🤓 Me chamo Gabriel nv 1 em Dev buscando upar minhas habilidades <br> na área da programação Front com HTML, CSS & JS
+ ### 🤓 Me chamo Gabriel nv 1 em Dev buscando upar minhas <br>habilidades na área da programação Front com HTML, CSS & JS
 
 <div>
   <a href="https://github.com/filipegtb">
